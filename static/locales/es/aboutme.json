@@ -1,0 +1,35 @@
+{
+    "title": "Sobre Nosotros",
+    "company": "NEUROMED & CARDIOMED RICARDO Y COMPAÑIA LIMITADA (NECARMED CIA LTDA).",
+    "description": {
+        "part1": "Somos una empresa orientada al sector salud desde nuestra fundación en el año 2010. A lo largo de estos años nos hemos dedicado a la venta, comercialización, distribución, importación y exportación de Insumos, Equipos Médicos e implantes de alta especialidad,  con una clara visión de la responsabilidad social que involucra esta actividad económica.",
+        "part2": "Con nuestra amplia experiencia y sólidas alianzas con nuestros proveedores ofrecemos a nuestros clientes productos de alta calidad y tecnología, que satisfacen sus necesidades, distribuyéndolos con altos niveles de planificación en todo el territorio nacional. Además, contamos con una organización moderna y un equipo de profesionales capaces y dedicados, perseverantes en el crecimiento continuo de nuestra empresa.",
+        "part3": "Somos una Empresa comprometida en satisfacer las necesidades de nuestros clientes, suministrando la mejor calidad en insumos y equipos médicos para el sector salud dentro de los más elevados principios éticos y de responsabilidad social."
+    },
+    "principles": {
+        "title": "NUESTRA EMPRESA SE FUNDAMENTA EN 2 PRINCIPIOS ESTRÁTEGICOS",
+        "principle1":{
+            "title": "Atención personalizada",
+            "description": "Somos una empresa lider en brindar atención personalizada y de calidad a los clientes."
+        },
+        "principle2":{
+            "title": "Servicios Integrales",
+            "description": "Somos una empresa que brind todos los servicios integrales requeridos por nuestros clientes, de manera que garantizamos su entera satisfacción."
+        }
+    },
+    "mission":{
+        "title": "Misión",
+        "description": "Nuestra misión es proveer un servicio eficiente, ofreciendo marcas reconocidas a nivel internacional, asegurando la calidad de todas nuestras actividades comerciales para mantener una satisfacción garantizada y relaciones fructíferas con nuestros clientes y proveedores."
+    },
+    "vision":{
+        "title": "Visión",
+        "description": "Nuestra vision es ser reconocidos como líderes en el Mercado nacional, por nuestra capacidad para satisfacer los requerimientos de nuestros clients, con productos de calidad e innovadores que llenen sus necesidades."
+    },
+    "team":{
+        "title": "Nuestro Equipo",
+        "description":{
+            "part1":"Contamos con un Equipo de Técnicos Quirúrgicos altamente capacitados, con la habilidad de proveer asistencia quirúrgica en las salas de cirugías, quienes además cuentan con el conocimiento y la capacidad de promover los productos y servicios que comercialzamos.",
+            "part2":"Nuestro Equipo de Ingenieros está entrenado para ofrecer servicios post-ventas, lo que incrementa la satisfacción del cliente y garantiza la calidad de nuestros servicios."
+        }
+    }
+}

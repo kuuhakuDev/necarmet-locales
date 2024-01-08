@@ -1,0 +1,35 @@
+{
+    "title": "About us",
+    "company": "NEUROMED & CARDIOMED RICARDO AND COMPANY LIMITED (NECARMED CIA LTDA).",
+    "description": {
+        "part1": "We are a company oriented to the health sector since our foundation in 2010. Throughout these years we have been dedicated to the sale, marketing, distribution, import and export of supplies, medical equipment and implants of high specialty, with a clear vision of the social responsibility that involves this economic activity.",
+        "part2": "With our extensive experience and solid alliances with our suppliers we offer our customers high quality products and technology, which meet their needs, distributing them with high levels of planning throughout the national territory. In addition, we have a modern organization and a team of capable and dedicated professionals, persevering in the continuous growth of our company.",
+        "part3": "We are a company committed to satisfying the needs of our customers, providing the best quality in medical supplies and equipment for the health sector within the highest ethical principles and social responsibility."
+    },
+    "principles": {
+        "title": "OUR COMPANY IS BASED ON 2 STRATEGIC PRINCIPLES",
+        "principle1":{
+            "title": "Personalized attention",
+            "description": "We are a leading company in providing personalized and quality attention to customers."
+        },
+        "principle2":{
+            "title": "Integral Services",
+            "description": "We are a company that provides all the integral services required by our clients, so that we guarantee their entire satisfaction."
+        }
+    },
+    "mission":{
+        "title": "Mission",
+        "description": "Our mission is to provide an efficient service, offering internationally recognized brands, ensuring the quality of all our commercial activities to maintain guaranteed satisfaction and fruitful relationships with our customers and suppliers."
+    },
+    "vision":{
+        "title": "Vision",
+        "description": "Our vision is to be recognized as leaders in the national market, for our ability to meet the requirements of our customers, with quality and innovative products that meet their needs."
+    },
+    "team":{
+        "title": "Our Team",
+        "description":{
+            "part1":"We have a team of highly trained Surgical Technicians, with the ability to provide surgical assistance in the operating rooms, who also have the knowledge and ability to promote the products and services we market.",
+            "part2":"Our Team of Engineers is trained to offer after-sales services, which increases customer satisfaction and guarantees the quality of our services."
+        }
+    }
+}
